@@ -39,7 +39,7 @@ namespace Estacionamento_DIO.Models
                 decimal valorTotal = precoInicial + (precoPorHora * horas);
 
                 veiculos.Remove(placa);
-                Console.WriteLine("Veiculo removido, siga para o pagamento e boa-viagem!");
+                Console.WriteLine($"Veiculo {placa} foi removido e o preço total foi de: R$ {valorTotal}");
             }
             else{
                 Console.WriteLine("Desculpe, essa placa não está registrada no estacionamento. Peço que confira se digitou os nuúmeros corretamente");

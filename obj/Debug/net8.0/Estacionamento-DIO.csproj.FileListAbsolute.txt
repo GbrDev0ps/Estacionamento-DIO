@@ -1,0 +1,15 @@
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\Estacionamento-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\Estacionamento-DIO.AssemblyInfoInputs.cache
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\Estacionamento-DIO.AssemblyInfo.cs
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\Estacionamento-DIO.csproj.CoreCompileInputs.cache
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\Estacionamento-DIO.sourcelink.json
+C:\Estacionamento\Estacionamento-DIO\bin\Debug\net8.0\Estacionamento-DIO.exe
+C:\Estacionamento\Estacionamento-DIO\bin\Debug\net8.0\Estacionamento-DIO.deps.json
+C:\Estacionamento\Estacionamento-DIO\bin\Debug\net8.0\Estacionamento-DIO.runtimeconfig.json
+C:\Estacionamento\Estacionamento-DIO\bin\Debug\net8.0\Estacionamento-DIO.dll
+C:\Estacionamento\Estacionamento-DIO\bin\Debug\net8.0\Estacionamento-DIO.pdb
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\Estacionamento-DIO.dll
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\refint\Estacionamento-DIO.dll
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\Estacionamento-DIO.pdb
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\Estacionamento-DIO.genruntimeconfig.cache
+C:\Estacionamento\Estacionamento-DIO\obj\Debug\net8.0\ref\Estacionamento-DIO.dll
