@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estacionamento-DIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8bc5778e78e7c28fdf0b61f60a83a3c7204687")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45e05db3a5d512555a1655a59acf3b52ebbcb68")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estacionamento-DIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estacionamento-DIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
